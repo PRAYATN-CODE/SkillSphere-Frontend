@@ -1,0 +1,22 @@
+export const SKILLS_DATA = [
+    'JavaScript',
+    'React',
+    'Node.js',
+    'Python',
+    'Java',
+    'TypeScript',
+    'HTML',
+    'CSS',
+    'SQL',
+    'MongoDB',
+    'AWS',
+    'Docker',
+    'Git',
+    'Redux',
+    'GraphQL',
+    'Express',
+    'Vue',
+    'Angular',
+    'PHP',
+    'Ruby on Rails'
+];
